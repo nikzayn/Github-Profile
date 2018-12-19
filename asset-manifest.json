@@ -1,13 +1,13 @@
 {
-  "main.css": "/github-profile/static/css/main.5bea0363.chunk.css",
-  "main.js": "/github-profile/static/js/main.67f17c61.chunk.js",
-  "main.js.map": "/github-profile/static/js/main.67f17c61.chunk.js.map",
-  "static/js/1.af839bbb.chunk.js": "/github-profile/static/js/1.af839bbb.chunk.js",
-  "static/js/1.af839bbb.chunk.js.map": "/github-profile/static/js/1.af839bbb.chunk.js.map",
-  "runtime~main.js": "/github-profile/static/js/runtime~main.c7430eef.js",
-  "runtime~main.js.map": "/github-profile/static/js/runtime~main.c7430eef.js.map",
-  "static/css/main.5bea0363.chunk.css.map": "/github-profile/static/css/main.5bea0363.chunk.css.map",
-  "index.html": "/github-profile/index.html",
-  "precache-manifest.9eb06079a3b2ba15c205b0a20ac2889d.js": "/github-profile/precache-manifest.9eb06079a3b2ba15c205b0a20ac2889d.js",
-  "service-worker.js": "/github-profile/service-worker.js"
+  "main.css": "/Github-Profile/static/css/main.5bea0363.chunk.css",
+  "main.js": "/Github-Profile/static/js/main.bd96eb04.chunk.js",
+  "main.js.map": "/Github-Profile/static/js/main.bd96eb04.chunk.js.map",
+  "static/js/1.af839bbb.chunk.js": "/Github-Profile/static/js/1.af839bbb.chunk.js",
+  "static/js/1.af839bbb.chunk.js.map": "/Github-Profile/static/js/1.af839bbb.chunk.js.map",
+  "runtime~main.js": "/Github-Profile/static/js/runtime~main.ea37c894.js",
+  "runtime~main.js.map": "/Github-Profile/static/js/runtime~main.ea37c894.js.map",
+  "static/css/main.5bea0363.chunk.css.map": "/Github-Profile/static/css/main.5bea0363.chunk.css.map",
+  "index.html": "/Github-Profile/index.html",
+  "precache-manifest.be46d2989a8269ec2e71367ee09c7c32.js": "/Github-Profile/precache-manifest.be46d2989a8269ec2e71367ee09c7c32.js",
+  "service-worker.js": "/Github-Profile/service-worker.js"
 }
