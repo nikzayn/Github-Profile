@@ -1,0 +1,76 @@
+@import url('https://fonts.googleapis.com/css?family=Montserrat');
+
+.info {
+    background: #333;
+    text-align: center;
+    padding: 1.875rem .9375rem;
+}
+
+.info img {
+    width: 6.25rem;
+    height: 6.25rem;
+    margin-bottom: 1rem;
+    border-radius: 50%;
+    display: block;
+    box-shadow: 0 0 0.0625rem rgba(0, 0, 0, 0.5);
+}
+
+.info h2 a {
+    background: linear-gradient(to right, #F37335, #FDC830);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    padding: 5px;
+}
+
+.info h3 {
+    font-size: 1.1885rem;
+    color: #bdcbce;
+}
+
+.state {
+    background: #FDC830;  /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, #F37335, #FDC830);  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #F37335, #FDC830); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+    text-align: center;
+    padding: 1.875rem .9375rem;
+}
+
+.state li {
+    list-style: none;
+    display: inline-block;
+    margin-right: 1rem;
+}
+
+.state a {
+    color: #fff;
+}
+
+.state i {
+    font-size: 1.5rem;
+    font-weight: 700;
+    font-style: normal;
+    display: block;
+}
+
+.state span {
+    font-size: .844rem;
+    letter-spacing: .09rem;
+    color: #fff;
+}
+
+.notFound {
+    background: #fff;
+    padding: 1.875rem;
+    text-align: center;
+}
+
+.notFound h2 {
+    font-size: 2rem;
+    color: #2368bd;
+    margin-bottom: .625rem;
+}
+
+.notFound p {
+    font-size: 1rem;
+    color: #a3b6bb;
+}
